@@ -1,0 +1,7 @@
+## Should be implemented:
+### Support UPD, RS-232 protocols
+### Support TURN/STUN service
+### Support MacOS, WIN
+### Architecture model changed from 'client-server' to 'peer-to-peer'
+### Full-featured CLI support: dynamically select a transmission protocol; autocompletion on server side; history, etc
+### Implemented SYNC mode for the remote file transfer between one peer to other peer
